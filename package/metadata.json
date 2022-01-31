@@ -1,0 +1,25 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "adhemarks@gmail.com",
+                "Name": "adhe"                
+            }
+        ],
+        "Category": "Fun and Games",
+        "Description": "Word-guessing game",
+        "EnabledByDefault": true,
+        "Icon": "face-smile-big",
+        "Id": "adhe.warble",
+        "License": "GPL-2.0+",
+        "Name": "Warble",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "1.0",
+        "Website": ""
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml",
+    "X-Plasma-StandAloneApp": true
+}
