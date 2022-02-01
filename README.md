@@ -26,7 +26,7 @@ Warble is inspired by (and not affiliated with) the recently popular online game
 
 ## Install 
 
-Install from Kde Store .... [soon a link]
+Install from the Kde Store [https://store.kde.org/p/1695514/](https://store.kde.org/p/1695514/)
 
 ## Word List
 
@@ -42,5 +42,5 @@ The `dictionary.txt` word list is sourced from [sindresorhus/word-list](https://
 
 <p align="center">Share your ❤️ Buy me a ☕</p>
 
-<p align="center"><a href="https://www.buymeacoffee.com/adhe" target="_blank"><img src="https://www.paypalobjects.com/digitalassets/c/website/marketing/apac/C2/logos-buttons/optimize/44_Grey_PayPal_Pill_Button.png" alt="Paypal button" style="height: 44px !important;width: 145px !important;" ></a><a href="https://www.buymeacoffee.com/adhe" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;" ></a></p>
+<p align="center"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V9Q8MK9CKSQW8&source=url" target="_blank"><img src="https://www.paypalobjects.com/digitalassets/c/website/marketing/apac/C2/logos-buttons/optimize/44_Grey_PayPal_Pill_Button.png" alt="Paypal button" style="height: 44px !important;width: 145px !important;" ></a><a href="https://www.buymeacoffee.com/adhe" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;" ></a></p>
 
